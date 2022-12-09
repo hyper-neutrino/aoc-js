@@ -1,0 +1,1 @@
+data.ints().sum().print();

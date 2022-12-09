@@ -1,0 +1,1 @@
+function run; cat header.js > out.js; echo >> out.js; cat $argv[1] >> out.js; node out.js in.txt; end
